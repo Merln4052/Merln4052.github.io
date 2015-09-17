@@ -3,6 +3,7 @@
             margin:0 auto;
             background-color: teal;
             color: white;
+            font-family:sans-serif, serif;
         }
         .left {
             float:left;
