@@ -21,3 +21,26 @@
         table {
             margin-bottom: 50px;
         }
+        .d2 {
+                background-color: white;
+                color: black;
+        }
+        .d4 {
+                background-color: white;
+                color: black;
+        }
+        p.bacon {
+               font-family: serif; 
+        }
+        li.nth-child (5) {
+                color: black;
+        }
+        a.hover {
+                background-color: white;
+        }
+        a.link {
+                text-decoration: none;
+        }
+        span.1 {
+                color: brown;
+        }
