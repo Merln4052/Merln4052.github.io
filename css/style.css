@@ -35,7 +35,7 @@
         li.nth-child(5) {
                 color: black;
         }
-        a.hover {
+        a:hover {
                 color: white;
         }
         a.link {
