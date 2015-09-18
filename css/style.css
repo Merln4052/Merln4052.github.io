@@ -32,7 +32,7 @@
         p.bacon {
                font-family: serif; 
         }
-        li:nth-child (5) {
+        li.nth-child (5) {
                 color: black;
         }
         a.hover {
