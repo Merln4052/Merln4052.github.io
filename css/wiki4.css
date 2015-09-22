@@ -5,7 +5,7 @@ body {
 	background-color: #eee;
 	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 }
-
+  
 a:link { color: royalblue; }
 a:visited { color: purple; }
 a:focus { color: black; }
@@ -17,13 +17,11 @@ a:active { color: red; }
 	margin: 0 auto;
     background-color: #2B460F;
 }
-.ul {
-    list-style-type: none;
-}
 .header {
 	color: #fff;
 	background: #2B460F;
 	padding: 1em 1.25em;
+    text-align: right;
 }
 
 .header-heading { margin: 0; }
@@ -33,13 +31,19 @@ a:active { color: red; }
 	padding: 1;
     float: right;
     color: #fff;
+    list-style-type: none;
 }
 
+ul li {
+    list-style-type: none;
+    text-align: center;
+}
 .content {
 	overflow: hidden;
 	padding: 1em 1.25em;
 	background-color: #477519;
     color: #fff;
+    text-decoration: none;
 }
 
 .main, .aside {
@@ -103,7 +107,11 @@ a:active { color: red; }
 		margin-bottom: 1em;
 	}
 
-	.footer { padding: 2em 3em; }
+	.footer { 
+        padding: 2em 3em; 
+        color: #fff;
+    
+    }
 	
 	.nav li {
 		display: inline;
