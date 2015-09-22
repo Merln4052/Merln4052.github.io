@@ -55,6 +55,7 @@ ul li {
 	padding: 1em;
 	list-style: none;
     background-color: #669900;
+    border-bottom: 2px dashed #fff;
 }
 
 .nav li {
