@@ -1,0 +1,24 @@
+body {
+    margin: 0 auto;
+    max-width: 550px;
+    font-family: Georgia, Times, “Times New Roman”, serif;
+    background-color: #F3F1EC;
+    color: #170B35;
+}
+
+h1 {
+    font-variant: small-caps;
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+h3 {
+    font-variant: small-caps;
+}
+
+p {
+    line-height: 1.45;
+    text-indent: 40px;
+}
