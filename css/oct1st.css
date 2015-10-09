@@ -1,0 +1,28 @@
+body {
+    margin: 0 auto;
+    width: 850px;
+    background: #F3F1EC;
+    color: black;
+    font-size: 16px;
+}
+
+table, tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+}
+
+.bacon-info {
+    background: #F3F1EC;
+    color: #170B35;
+}
+
+.bacon-answer {
+    color: black;
+    font-family: "Times New Roman";
+}
+p {
+    line-height: 1.45;
+    text-indent: 40px;
+    width: 450px;
+}
