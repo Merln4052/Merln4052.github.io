@@ -1,16 +1,22 @@
 body {
     background: #808080;
     color: white;
+    margin: 0 auto;   
     line-height: 1.45;
     max-width: 60%;
-    font-size: 25px;
+    font-size: 32px;
 }
+
 .div { 
     padding: 15px 20px;
+    margin: 0 auto;
 }
+
 .main-content {
     width: 1000px;
-    margin: 0 auto;
+    padding 3px;
+    background-color: #aeaeae;
+    color: #1e1e1e;
 }
 
 .u {
@@ -24,6 +30,9 @@ body {
 
 .dodgers {
     background: #0000ff;
+    color: #ffffff;
+}
+.dodgers a {
     color: #ffffff;
 }
 
@@ -44,6 +53,7 @@ body {
 
 .table-container {
     background: #000000;
+    color: #ffffff;
 }
 
 table, tr, th, td {
